@@ -12,7 +12,6 @@ import com.vdurmont.emoji.Emoji;
 import com.vdurmont.emoji.EmojiManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.practicum.emojicon.engine.EmojiTicker;
 import ru.practicum.emojicon.engine.Engine;
 import ru.practicum.emojicon.engine.Point;
 import ru.practicum.emojicon.model.EmojiCat;
